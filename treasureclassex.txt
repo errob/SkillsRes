@@ -3,27 +3,27 @@ Gold			1						gld,mul=128	2																						0
 Jewelry A			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2												0
 Jewelry B			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2												0
 Jewelry C			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2												0
-Chipped Gem			1						gcv	3	gcy	3	gcb	3	gcg	3	gcr	3	gcw	3	skc	2										0
-Flawed Gem			1						gfv	3	gfy	3	gfb	3	gfg	3	gfr	3	gfw	3	skf	2										0
-Normal Gem			1						gsv	3	gsy	3	gsb	3	gsg	3	gsr	3	gsw	3	sku	2										0
-Flawless Gem			1						gzv	3	gly	3	glb	3	glg	3	glr	3	glw	3	skl	2										0
-Perfect Gem			1						gpv	3	gpy	3	gpb	3	gpg	3	gpr	3	gpw	3	skz	2										0
+Chipped Gem			1						gcv	3	gcy	3	gcb	3	gcg	3	gcr	3	gcw	3	skc	3										0
+Flawed Gem			1						gfv	3	gfy	3	gfb	3	gfg	3	gfr	3	gfw	3	skf	3										0
+Normal Gem			1						gsv	3	gsy	3	gsb	3	gsg	3	gsr	3	gsw	3	sku	3										0
+Flawless Gem			1						gzv	3	gly	3	glb	3	glg	3	glr	3	glw	3	skl	3										0
+Perfect Gem			1						gpv	3	gpy	3	gpb	3	gpg	3	gpr	3	gpw	3	skz	3										0
 Ammo			1						aqv	1	cqv	1																				0
 Misc 0			1						key	3	tsc	3	isc	3	opl	2	gpl	2														0
 Misc 1			1						key	3	tsc	3	isc	3	opm	2	gpm	2														0
 Misc 2			1						key	3	tsc	3	isc	3	ops	2	gps	2														0
 Hpotion 1			1						hp1	8	hp2	3	mp1	3	mp2	2	rvs	1														0
-Hpotion 2			1						hp1	1	hp2	4	hp3	3	mp2	2	mp3	2	rvs	1												0
-Hpotion 3			1						hp2	1	hp3	4	hp4	3	mp3	2	mp4	2	rvs	1												0
-Hpotion 4			1						hp3	1	hp4	4	hp5	3	mp4	2	mp5	2	rvs	1												0
-Hpotion 5			1						hp3	1	hp4	4	hp5	4	mp5	4	rvs	1														0
-Hpotion 6			1						hp4	4	hp5	6	mp4	2	mp5	4	rvs	1														0
+Hpotion 2			1						hp2	4	hp3	3	mp2	2	mp3	2	rvs	1														0
+Hpotion 3			1						hp3	4	hp4	3	mp3	2	mp4	2	rvs	1														0
+Hpotion 4			1						hp4	4	hp5	3	mp4	2	mp5	2	rvs	1														0
+Hpotion 5			1						hp5	4	mp5	4	rvs	1																		0
+Hpotion 6			1						hp5	6	mp5	4	rvl	1																		0
 Potion 1			1						hp1	12	hp2	4	mp1	5	mp2	4	rvs	1	vps	4												0
-Potion 2			1						hp1	4	hp2	8	hp3	5	mp2	2	mp3	5	rvs	1	vps	2	yps	3	wms	1						0
-Potion 3			1						hp2	6	hp3	6	hp4	4	mp3	3	mp4	3	rvs	1	vps	2	yps	2	wms	1						0
-Potion 4			1						hp3	6	hp4	6	hp5	4	mp4	3	mp5	3	rvs	1	vps	2	yps	2	wms	1						0
-Potion 5			1						hp3	4	hp4	6	hp5	6	mp5	5	rvs	1	vps	2	yps	2	wms	1								0
-Potion 6			1						hp4	6	hp5	8	mp4	1	mp5	5	rvs	1	vps	2	yps	2	wms	1								0
+Potion 2			1						hp2	8	hp3	5	mp2	2	mp3	5	rvs	1	vps	2	yps	3	wms	1								0
+Potion 3			1						hp3	6	hp4	4	mp3	3	mp4	3	rvs	1	vps	2	yps	2	wms	1								0
+Potion 4			1						hp4	6	hp5	4	mp4	3	mp5	3	rvs	1	vps	2	yps	2	wms	1								0
+Potion 5			1						hp4	6	hp5	6	mp5	5	rvs	1	vps	2	yps	2	wms	1										0
+Potion 6			1						hp5	8	mp5	5	rvl	1	vps	2	yps	2	wms	1												0
 Runes 1			1						r01	3	r02	2																				0
 Runes 2			1						r03	3	r04	2	Runes 1	1																		0
 Runes 3			1						r05	3	r06	2	Runes 2	1																		0
@@ -175,54 +175,54 @@ Act 5 (H) Bow C	3	85	1						bow75	1	bow78	2	bow81	5	bow84	7	bow87	8	bow87	1	bow8
 Act 1 Magic A	4	0	1						tsc	2	isc	4	mp1	6																		0
 Act 1 Magic B	4	5	1						tsc	2	isc	4	mp1	4	mp2	2																0
 Act 1 Magic C	4	9	1						tsc	2	isc	4	mp1	2	mp2	4																0
-Act 2 Magic A	4	12	1						tsc	2	isc	4	mp1	1	mp2	4	mp3	1														0
-Act 2 Magic B	4	15	1						tsc	2	isc	4	mp1	1	mp2	3	mp3	2														0
-Act 2 Magic C	4	18	1						tsc	2	isc	4	mp2	2	mp3	3	mp4	1														0
-Act 3 Magic A	4	20	1						tsc	2	isc	4	mp3	4	mp4	2																0
-Act 3 Magic B	4	22	1						tsc	2	isc	4	mp3	3	mp4	3																0
-Act 3 Magic C	4	24	1						tsc	2	isc	4	mp3	2	mp4	3	mp5	1														0
-Act 4 Magic A	4	26	1						tsc	2	isc	4	mp3	1	mp4	4	mp5	1														0
-Act 4 Magic B	4	29	1						tsc	2	isc	4	mp4	4	mp5	2																0
-Act 5 Magic A	4	32	1						tsc	2	isc	4	mp4	3	mp5	3																0
-Act 5 Magic B	4	34	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 5 Magic C	4	36	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 1 (N) Magic A	4	38	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 1 (N) Magic B	4	40	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 2 (N) Magic A	4	42	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 2 (N) Magic B	4	44	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 3 (N) Magic A	4	46	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 3 (N) Magic B	4	48	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 4 (N) Magic A	4	51	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 4 (N) Magic B	4	54	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 5 (N) Magic A	4	57	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 5 (N) Magic B	4	60	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 5 (N) Magic C	4	63	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 1 (H) Magic A	4	66	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 1 (H) Magic B	4	69	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 2 (H) Magic A	4	71	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 2 (H) Magic B	4	73	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 3 (H) Magic A	4	75	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 3 (H) Magic B	4	77	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 4 (H) Magic A	4	79	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 4 (H) Magic B	4	80	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 5 (H) Magic A	4	82	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 5 (H) Magic B	4	83	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 5 (H) Magic C	4	85	1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 2 Magic A	4	12	1						tsc	2	isc	4	mp3	1																		0
+Act 2 Magic B	4	15	1						tsc	2	isc	4	mp3	2																		0
+Act 2 Magic C	4	18	1						tsc	2	isc	4	mp4	1																		0
+Act 3 Magic A	4	20	1						tsc	2	isc	4	mp4	2																		0
+Act 3 Magic B	4	22	1						tsc	2	isc	4	mp4	3																		0
+Act 3 Magic C	4	24	1						tsc	2	isc	4	mp5	1																		0
+Act 4 Magic A	4	26	1						tsc	2	isc	4	mp5	1																		0
+Act 4 Magic B	4	29	1						tsc	2	isc	4	mp5	2																		0
+Act 5 Magic A	4	32	1						tsc	2	isc	4	mp5	3																		0
+Act 5 Magic B	4	34	1						tsc	2	isc	4	mp5	4																		0
+Act 5 Magic C	4	36	1						tsc	2	isc	4	mp5	4																		0
+Act 1 (N) Magic A	4	38	1						tsc	2	isc	4	mp5	4																		0
+Act 1 (N) Magic B	4	40	1						tsc	2	isc	4	mp5	4																		0
+Act 2 (N) Magic A	4	42	1						tsc	2	isc	4	mp5	4																		0
+Act 2 (N) Magic B	4	44	1						tsc	2	isc	4	mp5	4																		0
+Act 3 (N) Magic A	4	46	1						tsc	2	isc	4	mp5	4																		0
+Act 3 (N) Magic B	4	48	1						tsc	2	isc	4	mp5	4																		0
+Act 4 (N) Magic A	4	51	1						tsc	2	isc	4	mp5	4																		0
+Act 4 (N) Magic B	4	54	1						tsc	2	isc	4	mp5	4																		0
+Act 5 (N) Magic A	4	57	1						tsc	2	isc	4	mp5	4																		0
+Act 5 (N) Magic B	4	60	1						tsc	2	isc	4	mp5	4																		0
+Act 5 (N) Magic C	4	63	1						tsc	2	isc	4	mp5	4																		0
+Act 1 (H) Magic A	4	66	1						tsc	2	isc	4	mp5	4																		0
+Act 1 (H) Magic B	4	69	1						tsc	2	isc	4	mp5	4																		0
+Act 2 (H) Magic A	4	71	1						tsc	2	isc	4	mp5	4																		0
+Act 2 (H) Magic B	4	73	1						tsc	2	isc	4	mp5	4																		0
+Act 3 (H) Magic A	4	75	1						tsc	2	isc	4	mp5	4																		0
+Act 3 (H) Magic B	4	77	1						tsc	2	isc	4	mp5	4																		0
+Act 4 (H) Magic A	4	79	1						tsc	2	isc	4	mp5	4																		0
+Act 4 (H) Magic B	4	80	1						tsc	2	isc	4	mp5	4																		0
+Act 5 (H) Magic A	4	82	1						tsc	2	isc	4	mp5	4																		0
+Act 5 (H) Magic B	4	83	1						tsc	2	isc	4	mp5	4																		0
+Act 5 (H) Magic C	4	85	1						tsc	2	isc	4	mp5	4																		0
 Act 1 Good	5	0	1						Jewelry A	5	Chipped Gem	5																				0
-Act 2 Good	5	12	1						Jewelry B	20	Chipped Gem	12	Flawed Gem	4	Runes 1	3	Runes 2	3														0
-Act 3 Good	5	18	1						Jewelry C	20	Chipped Gem	8	Flawed Gem	8	Runes 3	3	Runes 4	3														0
-Act 4 Good	5	26	1						Jewelry C	50	Chipped Gem	14	Flawed Gem	28	Normal Gem	42	Runes 5	14	Runes 6	7												0
-Act 5 Good	5	32	1						Jewelry C	50	Chipped Gem	6	Flawed Gem	8	Normal Gem	24	Flawless Gem	4	Runes 7	10												0
-Act 1 (N) Good	5	38	1						Jewelry C	60	Chipped Gem	6	Flawed Gem	8	Normal Gem	28	Flawless Gem	14	Runes 8	14												0
-Act 2 (N) Good	5	42	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 9	14												0
-Act 3 (N) Good	5	46	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 10	14												0
-Act 4 (N) Good	5	51	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 11	14												0
-Act 5 (N) Good	5	57	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 12	14												0
-Act 1 (H) Good	5	66	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 13	14												0
-Act 2 (H) Good	5	72	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 14	14												0
-Act 3 (H) Good	5	78	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 15	14												0
-Act 4 (H) Good	5	82	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 16	14												0
-Act 5 (H) Good	5	85	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 17	14												0
+Act 2 Good	5	12	1						Jewelry B	20	Flawed Gem	15	Runes 4	10																		0
+Act 3 Good	5	18	1						Jewelry C	20	Normal Gem	15	Runes 6	10																		0
+Act 4 Good	5	26	1						Jewelry C	50	Normal Gem	30	Runes 8	15																		0
+Act 5 Good	5	32	1						Jewelry C	50	Flawless Gem	30	Runes 10	20																		0
+Act 1 (N) Good	5	38	1						Jewelry C	60	Flawless Gem	40	Perfect Gem	30	Runes 12	25																0
+Act 2 (N) Good	5	42	1						Jewelry C	60	Flawless Gem	40	Perfect Gem	30	Runes 13	25																0
+Act 3 (N) Good	5	46	1						Jewelry C	60	Flawless Gem	40	Perfect Gem	30	Runes 14	25																0
+Act 4 (N) Good	5	51	1						Jewelry C	60	Flawless Gem	40	Perfect Gem	30	Runes 15	25																0
+Act 5 (N) Good	5	57	1						Jewelry C	60	Flawless Gem	40	Perfect Gem	30	Runes 16	25																0
+Act 1 (H) Good	5	66	1						Jewelry C	60	Perfect Gem	40	Runes 16	25																		0
+Act 2 (H) Good	5	72	1						Jewelry C	60	Perfect Gem	40	Runes 17	25																		0
+Act 3 (H) Good	5	78	1						Jewelry C	60	Perfect Gem	40	Runes 17	25																		0
+Act 4 (H) Good	5	82	1						Jewelry C	60	Perfect Gem	40	Runes 17	25																		0
+Act 5 (H) Good	5	85	1						Jewelry C	60	Perfect Gem	40	Runes 17	25																		0
 Act 1 Chest A	6	0	4					100	gld	15	Act 1 Junk	15	Act 1 Equip A	10	Act 1 Good	2																0
 Act 1 Chest B	6	5	4					100	gld	15	Act 1 Junk	15	Act 1 Equip B	10	Act 1 Good	2																0
 Act 1 Chest C	6	9	4					100	gld	15	Act 1 Junk	12	Act 2 Junk	3	Act 1 Equip C	15	Act 1 Good	2														0
@@ -493,11 +493,11 @@ Act 5 Cpot A	12	32	2					0	Hpotion 4	1	Hpotion 5	2																				0
 Act 5 Cpot B	12	34	2					0	Hpotion 4	1	Hpotion 5	2																				0
 Act 5 Cpot C	12	36	2					0	Hpotion 4	1	Hpotion 5	2																				0
 Act 1 (N) Cpot A	12	38	2					0	Hpotion 5	1	Hpotion 5	2	Hpotion 6	4																		0
-Act 1 (N) Cpot B	12	40	2					0	Hpotion 5	1	Hpotion 5	2	Hpotion 6	4						7												0
-Act 1 (N) Cpot C	12	41	2					0	Hpotion 5	1	Hpotion 5	2	Hpotion 6	4						7												0
-Act 2 (N) Cpot A	12	42	2					0	Hpotion 5	1	Hpotion 5	2	Hpotion 6	4						7												0
-Act 2 (N) Cpot B	12	44	2					0	Hpotion 5	1	Hpotion 5	2	Hpotion 6	4						7												0
-Act 2 (N) Cpot C	12	45	2					0	Hpotion 5	1	Hpotion 5	2	Hpotion 6	4						7												0
+Act 1 (N) Cpot B	12	40	2					0	Hpotion 5	1	Hpotion 5	2	Hpotion 6	4																		0
+Act 1 (N) Cpot C	12	41	2					0	Hpotion 5	1	Hpotion 5	2	Hpotion 6	4																		0
+Act 2 (N) Cpot A	12	42	2					0	Hpotion 5	1	Hpotion 5	2	Hpotion 6	4																		0
+Act 2 (N) Cpot B	12	44	2					0	Hpotion 5	1	Hpotion 5	2	Hpotion 6	4																		0
+Act 2 (N) Cpot C	12	45	2					0	Hpotion 5	1	Hpotion 5	2	Hpotion 6	4																		0
 Act 3 (N) Cpot A	12	46	2					0	rvs	1	Hpotion 5	2	Hpotion 6	4	Hpotion 6	8				7												0
 Act 3 (N) Cpot B	12	48	2					0	rvs	1	Hpotion 5	2	Hpotion 6	4	Hpotion 6	8				7												0
 Act 3 (N) Cpot C	12	50	2					0	rvs	1	Hpotion 5	2	Hpotion 6	4	Hpotion 6	8				7												0
