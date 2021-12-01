@@ -68,14 +68,14 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2
 1 Tal Rune + 1 Amn Rune + 1 Perfect Ruby + 1 Normal Shield -> Socketed Shield	1			100					4	shld,nor,nos	r07	r11	gpr				useitem				sock			1	6																																																																															0
 1 Eld Rune + 1 Chipped Gem (Any) + 1 Low Quality Weapon -> Normal Weapon	1			100					3	weap,low	r02	gem0					usetype,nor																																																																																							0
 1 El Rune + 1 Chipped Gem (Any) + 1 Low Quality Armor -> Normal Armor	1			100					3	armo,low	r01	gem0					usetype,nor																																																																																							0
-1 Ral Rune + 1 Sol Rune + 1 Perfect Emerald + 1 Basic Unique Weapon -> Exceptional Unique Weapon	1			100					4	weap,bas,uni	r08	r12	gpg				useitem,mod,exc				levelreq			5	5																																																																															0
-1 Tal Rune + 1 Shael Rune + 1 Perfect Diamond + 1 Basic Unique Armor -> Exceptional Unique Armor	1			100					4	armo,bas,uni	r07	r13	gpw				useitem,mod,exc				levelreq			5	5																																																																															0
-1 Lum Rune + 1 Pul Rune + 1 Perfect Emerald + 1 Exceptional Unique Weapon -> Elite Unique Weapon	1			100					4	weap,exc,uni	r17	r21	gpg				useitem,mod,eli				levelreq			7	7																																																																															0
-1 Ko Rune + 1 Lem Rune + 1 Perfect Diamond + 1 Exceptional Unique Armor -> Elite Unique Armor	1			100					4	armo,exc,uni	r18	r20	gpw				useitem,mod,eli				levelreq			7	7																																																																															0
-1 Ort Rune + 1 Amn Rune + 1 Perfect Sapphire + 1 Basic Rare Weapon -> Exceptional Rare Weapon	1			100					4	weap,bas,rar	r09	r11	gpb				useitem,mod,exc				levelreq			5	5																																																																															0
-1 Ral Rune + 1 Thul Rune + 1 Perfect Amethyst + 1 Basic Rare Armor -> Exceptional Rare Armor	1			100					4	armo,bas,rar	r08	r10	gpv				useitem,mod,exc				levelreq			5	5																																																																															0
-1 Fal Rune + 1 Um Rune + 1 Perfect Sapphire + 1 Exceptional Rare Weapon -> Elite Rare Weapon	1			100					4	weap,exc,rar	r19	r22	gpb				useitem,mod,eli				levelreq			7	7																																																																															0
-1 Ko Rune + 1 Pul Rune + 1 Perfect Amethyst + 1 Exceptional Rare Armor -> Elite Rare Armor	1			100					4	armo,exc,rar	r18	r21	gpv				useitem,mod,eli				levelreq			7	7																																																																															0
+1 Ral Rune + 1 Sol Rune + 1 Perfect Emerald + 1 Basic Unique Weapon -> Exceptional Unique Weapon	1			100					2	weap,bas,uni	isc						useitem,mod,exc				levelreq			5	5																																																																															0
+1 Tal Rune + 1 Shael Rune + 1 Perfect Diamond + 1 Basic Unique Armor -> Exceptional Unique Armor	1			100					2	armo,bas,uni	isc						useitem,mod,exc				levelreq			5	5																																																																															0
+1 Lum Rune + 1 Pul Rune + 1 Perfect Emerald + 1 Exceptional Unique Weapon -> Elite Unique Weapon	1			100					2	weap,exc,uni	isc						useitem,mod,eli				levelreq			7	7																																																																															0
+1 Ko Rune + 1 Lem Rune + 1 Perfect Diamond + 1 Exceptional Unique Armor -> Elite Unique Armor	1			100					2	armo,exc,uni	isc						useitem,mod,eli				levelreq			7	7																																																																															0
+1 Ort Rune + 1 Amn Rune + 1 Perfect Sapphire + 1 Basic Rare Weapon -> Exceptional Rare Weapon	1			100					2	weap,bas,rar	tsc						useitem,mod,exc				levelreq			5	5																																																																															0
+1 Ral Rune + 1 Thul Rune + 1 Perfect Amethyst + 1 Basic Rare Armor -> Exceptional Rare Armor	1			100					2	armo,bas,rar	tsc						useitem,mod,exc				levelreq			5	5																																																																															0
+1 Fal Rune + 1 Um Rune + 1 Perfect Sapphire + 1 Exceptional Rare Weapon -> Elite Rare Weapon	1			100					2	weap,exc,rar	tsc						useitem,mod,eli				levelreq			7	7																																																																															0
+1 Ko Rune + 1 Pul Rune + 1 Perfect Amethyst + 1 Exceptional Rare Armor -> Elite Rare Armor	1			100					2	armo,exc,rar	tsc						useitem,mod,eli				levelreq			7	7																																																																															0
 1 Ort Rune + 1 Weapon -> Fully Repaired Weapon	1			100					2	weap,noe	r09						useitem,rep,qty=255																																																																																							0
 1 Ral Rune + 1 Armor -> Fully Repaired Armor	1			100					2	armo,noe	r08						useitem,rep,qty=255																																																																																							0
 1 Ort Rune + 1 Chipped Gem (Any) + 1 Weapon -> Fully Repaired and Recharged Weapon	1			100					3	weap,noe	r09	gem0					useitem,rep,rch,qty=255																																																																																							0
@@ -194,13 +194,17 @@ Armor Socket	1			100					2	armo	r03						useitem			100	sock			3	3															
 Armor Socket	1			100					2	armo	r04						useitem			100	sock			4	4																																																																															0
 Armor Socket	1			100					2	armo	r05						useitem			100	sock			5	5																																																																															0
 Armor Socket	1			100					2	armo	r06						useitem			100	sock			6	6																																																																															0
-Weapon to hiq	1			100					2	weap,noe	hpot						usetype,hiq			100																																																																																				0
-Armor to hiq	1			100					2	armo,noe	hpot						usetype,hiq			100																																																																																				0
+Weapon to hiq	1			100					2	weap,noe,hiq	hpot						usetype,hiq			100																																																																																				0
+Armor to hiq	1			100					2	armo,noe,hiq	hpot						usetype,hiq			100																																																																																				0
 Weapon to Eth	1			100					2	weap,noe	mpot						useitem			100	ethereal			1	1																																																																															0
 Armor to Eth	1			100					2	armo,noe	mpot						useitem			100	ethereal			1	1																																																																															0
-Normal Set to Exp	1			100					1	weap,bas,set							useitem,exc			100																																																																																				0
-Normal Set to Exp	1			100					1	armo,bas,set							useitem,exc			100																																																																																				0
-Exp set to Elite	1			100					1	weap,exc,set							useitem,eli			100																																																																																				0
-Exp set to Elite	1			100					1	armo,exc,set							useitem,eli			100																																																																																				0
-Reroll Rares	1			100					2	any,rar	hpot						usetype,rar			100																																																																																				0
-Reroll Uniques	1			100					2	any,uni	hpot						usetype,uni			100																																																																																				0
+Normal Set to Exp	1			100					3	weap,bas,set	mpot,qty=2						useitem,mod,exc				levelreq			5	5																																																																															0
+Normal Set to Exp	1			100					3	armo,bas,set	mpot,qty=2						useitem,mod,exc				levelreq			5	5																																																																															0
+Exp set to Elite	1			100					4	weap,exc,set	mpot,qty=3						useitem,mod,eli				levelreq			7	7																																																																															0
+Exp set to Elite	1			100					4	armo,exc,set	mpot,qty=3						useitem,mod,eli				levelreq			7	7																																																																															0
+Reroll Rares	1			100					3	any,rar	hpot,qty=2						usetype,rar			100																																																																																				0
+Reroll Uniques	1			100					4	any,uni	hpot,qty=3						usetype,uni			100																																																																																				0
+Weapon to hiq	1			100					2	weap,noe,low	hpot						usetype,hiq			100																																																																																				0
+Armor to hiq	1			100					2	armo,noe,low	hpot						usetype,hiq			100																																																																																				0
+Weapon to hiq	1			100					2	weap,noe,nor	hpot						usetype,hiq			100																																																																																				0
+Armor to hiq	1			100					2	armo,noe,nor	hpot						usetype,hiq			100																																																																																				0

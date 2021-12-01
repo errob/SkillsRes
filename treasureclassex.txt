@@ -520,7 +520,7 @@ Act 4 (H) Cpot B	12	80	2					0	rvl	1	Hpotion 6	2	Hpotion 6	4	Hpotion 6	8				7			
 Act 5 (H) Cpot A	12	81	2					0	rvl	1	Hpotion 6	2	Hpotion 6	4	Hpotion 6	8				7												0
 Act 5 (H) Cpot B	12	83	2					0	rvl	1	Hpotion 6	2	Hpotion 6	4	Hpotion 6	8				7												0
 Act 5 (H) Cpot C	12	85	2					0	rvl	1	Hpotion 6	2	Hpotion 6	4	Hpotion 6	8				7												0
-Act 1 Champ A	13	0	-2					0	Act 1 Citem A	1	Act 1 Cpot A	2																				0
+Act 1 Champ A	13	0	-2					0	Act 1 Citem A	1	Act 1 Cpot A	1																				0
 Act 1 Champ B	13	5	-2					0	Act 1 Citem B	1	Act 1 Cpot B	1																				0
 Act 1 Champ C	13	9	-2					0	Act 1 Citem C	1	Act 1 Cpot C	1																				0
 Act 2 Champ A	13	12	-2					0	Act 2 Citem A	1	Act 2 Cpot A	1																				0
@@ -534,35 +534,35 @@ Act 4 Champ B	13	29	-2					0	Act 4 Citem B	1	Act 4 Cpot B	1																				0
 Act 5 Champ A	13	32	-2					0	Act 5 Citem A	1	Act 5 Cpot A	1																				0
 Act 5 Champ B	13	34	-2					0	Act 5 Citem B	1	Act 5 Cpot B	1																				0
 Act 5 Champ C	13	36	-2					0	Act 5 Citem C	1	Act 5 Cpot C	1																				0
-Act 1 (N) Champ A	13	38	-2					0	Act 1 (N) Citem A	1	Act 1 (N) Cpot A	2																				0
-Act 1 (N) Champ B	13	40	-2					0	Act 1 (N) Citem B	1	Act 1 (N) Cpot B	2																				0
-Act 1 (N) Champ C	13	41	-2					0	Act 1 (N) Citem C	1	Act 1 (N) Cpot C	2																				0
-Act 2 (N) Champ A	13	42	-2					0	Act 2 (N) Citem A	1	Act 2 (N) Cpot A	2																				0
-Act 2 (N) Champ B	13	44	-2					0	Act 2 (N) Citem B	1	Act 2 (N) Cpot B	2																				0
-Act 2 (N) Champ C	13	45	-2					0	Act 2 (N) Citem C	1	Act 2 (N) Cpot C	2																				0
-Act 3 (N) Champ A	13	46	-2					0	Act 3 (N) Citem A	1	Act 3 (N) Cpot A	2																				0
-Act 3 (N) Champ B	13	48	-2					0	Act 3 (N) Citem B	1	Act 3 (N) Cpot B	2																				0
-Act 3 (N) Champ C	13	50	-2					0	Act 3 (N) Citem C	1	Act 3 (N) Cpot C	2																				0
-Act 4 (N) Champ A	13	51	-2					0	Act 4 (N) Citem A	1	Act 4 (N) Cpot A	2																				0
-Act 4 (N) Champ B	13	54	-2					0	Act 4 (N) Citem B	1	Act 4 (N) Cpot B	2																				0
-Act 4 (N) Champ C	13	56	-2					0	Act 4 (N) Citem B	1	Act 4 (N) Cpot B	2																				
-Act 5 (N) Champ A	13	57	-2					0	Act 5 (N) Citem A	1	Act 5 (N) Cpot A	2																				0
-Act 5 (N) Champ B	13	60	-2					0	Act 5 (N) Citem B	1	Act 5 (N) Cpot B	2																				0
-Act 5 (N) Champ C	13	62	-2					0	Act 5 (N) Citem C	1	Act 5 (N) Cpot C	2																				
-Act 1 (H) Champ A	13	63	-2					0	Act 1 (H) Citem A	1	Act 1 (H) Cpot A	3																				0
-Act 1 (H) Champ B	13	66	-2					0	Act 1 (H) Citem B	1	Act 1 (H) Cpot B	3																				0
-Act 1 (H) Champ C	13	68	-2					0	Act 1 (H) Citem C	1	Act 1 (H) Cpot C	3																				0
-Act 2 (H) Champ A	13	69	-2					0	Act 2 (H) Citem A	1	Act 2 (H) Cpot A	3																				0
-Act 2 (H) Champ B	13	71	-2					0	Act 2 (H) Citem B	1	Act 2 (H) Cpot B	3																				0
-Act 2 (H) Champ C	13	72	-2					0	Act 2 (H) Citem C	1	Act 2 (H) Cpot C	3																				0
-Act 3 (H) Champ A	13	74	-2					0	Act 3 (H) Citem A	1	Act 3 (H) Cpot A	3																				0
-Act 3 (H) Champ B	13	75	-2					0	Act 3 (H) Citem B	1	Act 3 (H) Cpot B	3																				0
-Act 3 (H) Champ C	13	77	-2					0	Act 3 (H) Citem C	1	Act 3 (H) Cpot C	3																				0
-Act 4 (H) Champ A	13	78	-2					0	Act 4 (H) Citem A	1	Act 4 (H) Cpot A	3																				0
-Act 4 (H) Champ B	13	80	-2					0	Act 4 (H) Citem B	1	Act 4 (H) Cpot B	3																				0
-Act 5 (H) Champ A	13	81	-2					0	Act 5 (H) Citem A	1	Act 5 (H) Cpot A	3																				0
-Act 5 (H) Champ B	13	83	-2					0	Act 5 (H) Citem B	1	Act 5 (H) Cpot B	3																				0
-Act 5 (H) Champ C	13	85	-2					0	Act 5 (H) Citem C	1	Act 5 (H) Cpot C	3																				0
+Act 1 (N) Champ A	13	38	-2					0	Act 1 (N) Citem A	1	Act 1 (N) Cpot A	1																				0
+Act 1 (N) Champ B	13	40	-2					0	Act 1 (N) Citem B	1	Act 1 (N) Cpot B	1																				0
+Act 1 (N) Champ C	13	41	-2					0	Act 1 (N) Citem C	1	Act 1 (N) Cpot C	1																				0
+Act 2 (N) Champ A	13	42	-2					0	Act 2 (N) Citem A	1	Act 2 (N) Cpot A	1																				0
+Act 2 (N) Champ B	13	44	-2					0	Act 2 (N) Citem B	1	Act 2 (N) Cpot B	1																				0
+Act 2 (N) Champ C	13	45	-2					0	Act 2 (N) Citem C	1	Act 2 (N) Cpot C	1																				0
+Act 3 (N) Champ A	13	46	-2					0	Act 3 (N) Citem A	1	Act 3 (N) Cpot A	1																				0
+Act 3 (N) Champ B	13	48	-2					0	Act 3 (N) Citem B	1	Act 3 (N) Cpot B	1																				0
+Act 3 (N) Champ C	13	50	-2					0	Act 3 (N) Citem C	1	Act 3 (N) Cpot C	1																				0
+Act 4 (N) Champ A	13	51	-2					0	Act 4 (N) Citem A	1	Act 4 (N) Cpot A	1																				0
+Act 4 (N) Champ B	13	54	-2					0	Act 4 (N) Citem B	1	Act 4 (N) Cpot B	1																				0
+Act 4 (N) Champ C	13	56	-2					0	Act 4 (N) Citem B	1	Act 4 (N) Cpot B	1																				
+Act 5 (N) Champ A	13	57	-2					0	Act 5 (N) Citem A	1	Act 5 (N) Cpot A	1																				0
+Act 5 (N) Champ B	13	60	-2					0	Act 5 (N) Citem B	1	Act 5 (N) Cpot B	1																				0
+Act 5 (N) Champ C	13	62	-2					0	Act 5 (N) Citem C	1	Act 5 (N) Cpot C	1																				
+Act 1 (H) Champ A	13	63	-2					0	Act 1 (H) Citem A	1	Act 1 (H) Cpot A	1																				0
+Act 1 (H) Champ B	13	66	-2					0	Act 1 (H) Citem B	1	Act 1 (H) Cpot B	1																				0
+Act 1 (H) Champ C	13	68	-2					0	Act 1 (H) Citem C	1	Act 1 (H) Cpot C	1																				0
+Act 2 (H) Champ A	13	69	-2					0	Act 2 (H) Citem A	1	Act 2 (H) Cpot A	1																				0
+Act 2 (H) Champ B	13	71	-2					0	Act 2 (H) Citem B	1	Act 2 (H) Cpot B	1																				0
+Act 2 (H) Champ C	13	72	-2					0	Act 2 (H) Citem C	1	Act 2 (H) Cpot C	1																				0
+Act 3 (H) Champ A	13	74	-2					0	Act 3 (H) Citem A	1	Act 3 (H) Cpot A	1																				0
+Act 3 (H) Champ B	13	75	-2					0	Act 3 (H) Citem B	1	Act 3 (H) Cpot B	1																				0
+Act 3 (H) Champ C	13	77	-2					0	Act 3 (H) Citem C	1	Act 3 (H) Cpot C	1																				0
+Act 4 (H) Champ A	13	78	-2					0	Act 4 (H) Citem A	1	Act 4 (H) Cpot A	1																				0
+Act 4 (H) Champ B	13	80	-2					0	Act 4 (H) Citem B	1	Act 4 (H) Cpot B	1																				0
+Act 5 (H) Champ A	13	81	-2					0	Act 5 (H) Citem A	1	Act 5 (H) Cpot A	1																				0
+Act 5 (H) Champ B	13	83	-2					0	Act 5 (H) Citem B	1	Act 5 (H) Cpot B	1																				0
+Act 5 (H) Champ C	13	85	-2					0	Act 5 (H) Citem C	1	Act 5 (H) Cpot C	1																				0
 Act 1 Uitem A	14	0	1	800	800	800	1024	0	Act 1 Equip A	58	Act 1 Good	4																				0
 Act 1 Uitem B	14	5	1	800	800	800	1024	0	Act 1 Equip B	58	Act 1 Good	4																				0
 Act 1 Uitem C	14	9	1	800	800	800	1024	0	Act 1 Equip C	58	Act 1 Good	4																				0
@@ -731,99 +731,99 @@ Blood Raven (H)			5	800	800	972	1024	19	gld,mul=2048	14	Act 1 (H) Equip B	19	Act
 Smith			-3					0	Act 1 Uitem C	1	Act 1 Melee B	2																				0
 Smith (N)			-3					0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
 Smith (H)			-3					0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	1	Countess Rune (H)	1																		0
-Izual			5	800	800	972	1024	19	gld,mul=1280	14	Act 4 Equip B	19	Act 4 Junk	5	Act 4 Good	3																0
-Izual (N)			5	800	800	972	1024	19	gld,mul=1536	14	Act 4 (N) Equip B	19	Act 4 (N) Junk	5	Act 4 (N) Good	3																0
-Izual (H)			5	800	800	972	1024	19	gld,mul=2048	14	Act 4 (H) Equip B	19	Act 4 (H) Junk	5	Act 4 (H) Good	3	Countess Rune (H)	3														0
-Act 1 Super A	18	0	-4	800	800	972	1024	0	Act 1 Uitem A	2	Act 1 Cpot A	2																				0
-Act 1 Super B	18	5	-4	800	800	972	1024	0	Act 1 Uitem B	2	Act 1 Cpot B	2																				0
-Act 1 Super C	18	9	-4	800	800	972	1024	0	Act 1 Uitem C	2	Act 1 Cpot C	2																				0
-Act 2 Super A	18	12	-4	800	800	972	1024	0	Act 2 Uitem A	2	Act 2 Cpot A	2																				0
-Act 2 Super B	18	15	-4	800	800	972	1024	0	Act 2 Uitem B	2	Act 2 Cpot B	2																				0
-Act 2 Super C	18	18	-4	800	800	972	1024	0	Act 2 Uitem C	2	Act 2 Cpot C	2																				0
-Act 3 Super A	18	20	-4	800	800	972	1024	0	Act 3 Uitem A	2	Act 3 Cpot A	2																				0
-Act 3 Super B	18	22	-4	800	800	972	1024	0	Act 3 Uitem B	2	Act 3 Cpot B	2																				0
-Act 3 Super C	18	24	-4	800	800	972	1024	0	Act 3 Uitem C	2	Act 3 Cpot C	2																				0
-Act 4 Super A	18	26	-4	800	800	972	1024	0	Act 4 Uitem A	2	Act 4 Cpot A	2																				0
-Act 4 Super B	18	29	-4	800	800	972	1024	0	Act 4 Uitem B	2	Act 4 Cpot B	2																				0
-Act 4 Super C	18	32	-4	800	800	972	1024	0	Act 4 Uitem B	2	Act 4 Cpot B	2																				0
-Act 5 Super A	18	34	-4	800	800	972	1024	0	Act 5 Uitem A	2	Act 5 Cpot A	2																				0
-Act 5 Super B	18	36	-4	800	800	972	1024	0	Act 5 Uitem B	2	Act 5 Cpot B	2																				0
-Act 5 Super C	18	38	-4	800	800	972	1024	0	Act 5 Uitem C	2	Act 5 Cpot C	2																				0
-Act 1 (N) Super A	18	40	-4	800	800	972	1024	0	Act 1 (N) Uitem A	2	Act 1 (N) Cpot A	2																				0
-Act 1 (N) Super B	18	41	-4	800	800	972	1024	0	Act 1 (N) Uitem B	2	Act 1 (N) Cpot B	2																				0
-Act 1 (N) Super C	18	42	-4	800	800	972	1024	0	Act 1 (N) Uitem C	2	Act 1 (N) Cpot C	2																				0
-Act 2 (N) Super A	18	44	-4	800	800	972	1024	0	Act 2 (N) Uitem A	2	Act 2 (N) Cpot A	2																				0
-Act 2 (N) Super B	18	45	-4	800	800	972	1024	0	Act 2 (N) Uitem B	2	Act 2 (N) Cpot B	2																				0
-Act 2 (N) Super C	18	46	-4	800	800	972	1024	0	Act 2 (N) Uitem C	2	Act 2 (N) Cpot C	2																				0
-Act 3 (N) Super A	18	48	-4	800	800	972	1024	0	Act 3 (N) Uitem A	2	Act 3 (N) Cpot A	2																				0
-Act 3 (N) Super B	18	50	-4	800	800	972	1024	0	Act 3 (N) Uitem B	2	Act 3 (N) Cpot B	2																				0
-Act 3 (N) Super C	18	51	-4	800	800	972	1024	0	Act 3 (N) Uitem C	2	Act 3 (N) Cpot C	2																				0
-Act 4 (N) Super A	18	54	-4	800	800	972	1024	0	Act 4 (N) Uitem A	2	Act 4 (N) Cpot A	2																				0
-Act 4 (N) Super B	18	57	-4	800	800	972	1024	0	Act 4 (N) Uitem B	2	Act 4 (N) Cpot B	2																				0
-Act 4 (N) Super C	18	60	-4	800	800	972	1024	0	Act 4 (N) Uitem B	2	Act 4 (N) Cpot B	2																				0
-Act 5 (N) Super A	18	62	-4	800	800	972	1024	0	Act 5 (N) Uitem A	2	Act 5 (N) Cpot A	2																				0
-Act 5 (N) Super B	18	63	-4	800	800	972	1024	0	Act 5 (N) Uitem B	2	Act 5 (N) Cpot B	2																				0
-Act 5 (N) Super C	18	66	-4	800	800	972	1024	0	Act 5 (N) Uitem C	2	Act 5 (N) Cpot C	2																				0
-Act 1 (H) Super A	18	67	-4	800	800	972	1024	0	Act 1 (H) Uitem A	2	Act 1 (H) Cpot A	2																				0
-Act 1 (H) Super B	18	67	-4	800	800	972	1024	0	Act 1 (H) Uitem B	2	Act 1 (H) Cpot B	2																				0
-Act 1 (H) Super C	18	68	-4	800	800	972	1024	0	Act 1 (H) Uitem C	2	Act 1 (H) Cpot C	2																				0
-Act 2 (H) Super A	18	68	-4	800	800	972	1024	0	Act 2 (H) Uitem A	2	Act 2 (H) Cpot A	2																				0
-Act 2 (H) Super B	18	69	-4	800	800	972	1024	0	Act 2 (H) Uitem B	2	Act 2 (H) Cpot B	2																				0
-Act 2 (H) Super C	18	72	-4	800	800	972	1024	0	Act 2 (H) Uitem C	2	Act 2 (H) Cpot C	2																				0
-Act 3 (H) Super A	18	73	-4	800	800	972	1024	0	Act 3 (H) Uitem A	2	Act 3 (H) Cpot A	2																				0
-Act 3 (H) Super B	18	75	-4	800	800	972	1024	0	Act 3 (H) Uitem B	2	Act 3 (H) Cpot B	2																				0
-Act 3 (H) Super C	18	78	-4	800	800	972	1024	0	Act 3 (H) Uitem C	2	Act 3 (H) Cpot C	2																				0
-Act 4 (H) Super A	18	81	-4	800	800	972	1024	0	Act 4 (H) Uitem A	2	Act 4 (H) Cpot A	2																				0
-Act 4 (H) Super B	18	84	-4	800	800	972	1024	0	Act 4 (H) Uitem B	2	Act 4 (H) Cpot B	2																				0
-Act 4 (H) Super C	18	87	-4	800	800	972	1024	0	Act 4 (H) Uitem B	2	Act 4 (H) Cpot B	2																				0
-Act 5 (H) Super A	18	90	-4	800	800	972	1024	0	Act 5 (H) Uitem A	2	Act 5 (H) Cpot A	2																				0
-Act 5 (H) Super B	18	93	-4	800	800	972	1024	0	Act 5 (H) Uitem B	2	Act 5 (H) Cpot B	2																				0
-Act 5 (H) Super C	18	96	-4	800	800	972	1024	0	Act 5 (H) Uitem C	2	Act 5 (H) Cpot C	2																				0
-Act 1 Super Ax	18	0	-4	512	654	972	1024	0	Act 1 Uitem A	2	Act 1 Cpot A	2																				0
-Act 1 Super Bx	18	5	-4	512	654	972	1024	0	Act 1 Uitem B	2	Act 1 Cpot B	2																				0
-Act 1 Super Cx	18	9	-4	512	654	972	1024	0	Act 1 Uitem C	2	Act 1 Cpot C	2																				0
-Act 2 Super Ax	18	12	-4	512	654	972	1024	0	Act 2 Uitem A	2	Act 2 Cpot A	2																				0
-Act 2 Super Bx	18	15	-4	512	654	972	1024	0	Act 2 Uitem B	2	Act 2 Cpot B	2																				0
-Act 2 Super Cx	18	18	-4	512	654	972	1024	0	Act 2 Uitem C	2	Act 2 Cpot C	2																				0
-Act 3 Super Ax	18	20	-4	512	654	972	1024	0	Act 3 Uitem A	2	Act 3 Cpot A	2																				0
-Act 3 Super Bx	18	22	-4	512	654	972	1024	0	Act 3 Uitem B	2	Act 3 Cpot B	2																				0
-Act 3 Super Cx	18	24	-4	512	654	972	1024	0	Act 3 Uitem C	2	Act 3 Cpot C	2																				0
-Act 4 Super Ax	18	26	-4	512	654	972	1024	0	Act 4 Uitem A	2	Act 4 Cpot A	2																				0
-Act 4 Super Bx	18	29	-4	512	654	972	1024	0	Act 4 Uitem B	2	Act 4 Cpot B	2																				0
-Act 4 Super Cx	18	32	-4	512	654	972	1024	0	Act 4 Uitem B	2	Act 4 Cpot B	2																				0
-Act 5 Super Ax	18	34	-4	512	654	972	1024	0	Act 5 Uitem A	2	Act 5 Cpot A	2																				0
-Act 5 Super Bx	18	36	-4	512	654	972	1024	0	Act 5 Uitem B	2	Act 5 Cpot B	2																				0
-Act 5 Super Cx	18	38	-4	512	654	972	1024	0	Act 5 Uitem C	2	Act 5 Cpot C	2																				0
-Act 1 (N) Super Ax	18	40	-4	512	654	972	1024	0	Act 1 (N) Uitem A	2	Act 1 (N) Cpot A	2																				0
-Act 1 (N) Super Bx	18	41	-4	512	654	972	1024	0	Act 1 (N) Uitem B	2	Act 1 (N) Cpot B	2																				0
-Act 1 (N) Super Cx	18	42	-4	512	654	972	1024	0	Act 1 (N) Uitem C	2	Act 1 (N) Cpot C	2																				0
-Act 2 (N) Super Ax	18	44	-4	512	654	972	1024	0	Act 2 (N) Uitem A	2	Act 2 (N) Cpot A	2																				0
-Act 2 (N) Super Bx	18	45	-4	512	654	972	1024	0	Act 2 (N) Uitem B	2	Act 2 (N) Cpot B	2																				0
-Act 2 (N) Super Cx	18	46	-4	512	654	972	1024	0	Act 2 (N) Uitem C	2	Act 2 (N) Cpot C	2																				0
-Act 3 (N) Super Ax	18	48	-4	512	654	972	1024	0	Act 3 (N) Uitem A	2	Act 3 (N) Cpot A	2																				0
-Act 3 (N) Super Bx	18	50	-4	512	654	972	1024	0	Act 3 (N) Uitem B	2	Act 3 (N) Cpot B	2																				0
-Act 3 (N) Super Cx	18	51	-4	512	654	972	1024	0	Act 3 (N) Uitem C	2	Act 3 (N) Cpot C	2																				0
-Act 4 (N) Super Ax	18	54	-4	512	654	972	1024	0	Act 4 (N) Uitem A	2	Act 4 (N) Cpot A	2																				0
-Act 4 (N) Super Bx	18	57	-4	512	654	972	1024	0	Act 4 (N) Uitem B	2	Act 4 (N) Cpot B	2																				0
-Act 4 (N) Super Cx	18	60	-4	512	654	972	1024	0	Act 4 (N) Uitem B	2	Act 4 (N) Cpot B	2																				0
-Act 5 (N) Super Ax	18	62	-4	512	654	972	1024	0	Act 5 (N) Uitem A	2	Act 5 (N) Cpot A	2																				0
-Act 5 (N) Super Bx	18	63	-4	512	654	972	1024	0	Act 5 (N) Uitem B	2	Act 5 (N) Cpot B	2																				0
-Act 5 (N) Super Cx	18	66	-4	512	654	972	1024	0	Act 5 (N) Uitem C	2	Act 5 (N) Cpot C	2																				0
-Act 1 (H) Super Ax	18	67	-4	512	654	972	1024	0	Act 1 (H) Uitem A	2	Act 1 (H) Cpot A	2																				0
-Act 1 (H) Super Bx	18	67	-4	512	654	972	1024	0	Act 1 (H) Uitem B	2	Act 1 (H) Cpot B	2																				0
-Act 1 (H) Super Cx	18	68	-4	512	654	972	1024	0	Act 1 (H) Uitem C	2	Act 1 (H) Cpot C	2																				0
-Act 2 (H) Super Ax	18	68	-4	512	654	972	1024	0	Act 2 (H) Uitem A	2	Act 2 (H) Cpot A	2																				0
-Act 2 (H) Super Bx	18	69	-4	512	654	972	1024	0	Act 2 (H) Uitem B	2	Act 2 (H) Cpot B	2																				0
-Act 2 (H) Super Cx	18	72	-4	512	654	972	1024	0	Act 2 (H) Uitem C	2	Act 2 (H) Cpot C	2																				0
-Act 3 (H) Super Ax	18	73	-4	512	654	972	1024	0	Act 3 (H) Uitem A	2	Act 3 (H) Cpot A	2																				0
-Act 3 (H) Super Bx	18	75	-4	512	654	972	1024	0	Act 3 (H) Uitem B	2	Act 3 (H) Cpot B	2																				0
-Act 3 (H) Super Cx	18	78	-4	512	654	972	1024	0	Act 3 (H) Uitem C	2	Act 3 (H) Cpot C	2																				0
-Act 4 (H) Super Ax	18	81	-4	512	654	972	1024	0	Act 4 (H) Uitem A	2	Act 4 (H) Cpot A	2																				0
-Act 4 (H) Super Bx	18	84	-4	512	654	972	1024	0	Act 4 (H) Uitem B	2	Act 4 (H) Cpot B	2																				0
-Act 4 (H) Super Cx	18	87	-4	512	654	972	1024	0	Act 4 (H) Uitem B	2	Act 4 (H) Cpot B	2																				0
-Act 5 (H) Super Ax	18	90	-4	512	654	972	1024	0	Act 5 (H) Uitem A	2	Act 5 (H) Cpot A	2																				0
-Act 5 (H) Super Bx	18	93	-4	512	654	972	1024	0	Act 5 (H) Uitem B	2	Act 5 (H) Cpot B	2																				0
-Act 5 (H) Super Cx	18	96	-4	512	654	972	1024	0	Act 5 (H) Uitem C	2	Act 5 (H) Cpot C	2																				0
+Izual			5	900	990	900	1024	19	gld,mul=1280	14	Act 4 Equip B	19	Act 4 Junk	5	Act 4 Good	3																0
+Izual (N)			5	900	990	900	1024	19	gld,mul=1536	14	Act 4 (N) Equip B	19	Act 4 (N) Junk	5	Act 4 (N) Good	3																0
+Izual (H)			5	900	990	900	1024	19	gld,mul=2048	14	Act 4 (H) Equip B	19	Act 4 (H) Junk	5	Act 4 (H) Good	3	Countess Rune (H)	3														0
+Act 1 Super A	18	0	-4	900	990	900	1024	0	Act 1 Uitem A	3	Act 1 Cpot A	1																				0
+Act 1 Super B	18	5	-4	900	990	900	1024	0	Act 1 Uitem B	3	Act 1 Cpot B	1																				0
+Act 1 Super C	18	9	-4	900	990	900	1024	0	Act 1 Uitem C	3	Act 1 Cpot C	1																				0
+Act 2 Super A	18	12	-4	900	990	900	1024	0	Act 2 Uitem A	3	Act 2 Cpot A	1																				0
+Act 2 Super B	18	15	-4	900	990	900	1024	0	Act 2 Uitem B	3	Act 2 Cpot B	1																				0
+Act 2 Super C	18	18	-4	900	990	900	1024	0	Act 2 Uitem C	3	Act 2 Cpot C	1																				0
+Act 3 Super A	18	20	-4	900	990	900	1024	0	Act 3 Uitem A	3	Act 3 Cpot A	1																				0
+Act 3 Super B	18	22	-4	900	990	900	1024	0	Act 3 Uitem B	3	Act 3 Cpot B	1																				0
+Act 3 Super C	18	24	-4	900	990	900	1024	0	Act 3 Uitem C	3	Act 3 Cpot C	1																				0
+Act 4 Super A	18	26	-4	900	990	900	1024	0	Act 4 Uitem A	3	Act 4 Cpot A	1																				0
+Act 4 Super B	18	29	-4	900	990	900	1024	0	Act 4 Uitem B	3	Act 4 Cpot B	1																				0
+Act 4 Super C	18	32	-4	900	990	900	1024	0	Act 4 Uitem B	3	Act 4 Cpot B	1																				0
+Act 5 Super A	18	34	-4	900	990	900	1024	0	Act 5 Uitem A	3	Act 5 Cpot A	1																				0
+Act 5 Super B	18	36	-4	900	990	900	1024	0	Act 5 Uitem B	3	Act 5 Cpot B	1																				0
+Act 5 Super C	18	38	-4	900	990	900	1024	0	Act 5 Uitem C	3	Act 5 Cpot C	1																				0
+Act 1 (N) Super A	18	40	-4	900	990	900	1024	0	Act 1 (N) Uitem A	3	Act 1 (N) Cpot A	1																				0
+Act 1 (N) Super B	18	41	-4	900	990	900	1024	0	Act 1 (N) Uitem B	3	Act 1 (N) Cpot B	1																				0
+Act 1 (N) Super C	18	42	-4	900	990	900	1024	0	Act 1 (N) Uitem C	3	Act 1 (N) Cpot C	1																				0
+Act 2 (N) Super A	18	44	-4	900	990	900	1024	0	Act 2 (N) Uitem A	3	Act 2 (N) Cpot A	1																				0
+Act 2 (N) Super B	18	45	-4	900	990	900	1024	0	Act 2 (N) Uitem B	3	Act 2 (N) Cpot B	1																				0
+Act 2 (N) Super C	18	46	-4	900	990	900	1024	0	Act 2 (N) Uitem C	3	Act 2 (N) Cpot C	1																				0
+Act 3 (N) Super A	18	48	-4	900	990	900	1024	0	Act 3 (N) Uitem A	3	Act 3 (N) Cpot A	1																				0
+Act 3 (N) Super B	18	50	-4	900	990	900	1024	0	Act 3 (N) Uitem B	3	Act 3 (N) Cpot B	1																				0
+Act 3 (N) Super C	18	51	-4	900	990	900	1024	0	Act 3 (N) Uitem C	3	Act 3 (N) Cpot C	1																				0
+Act 4 (N) Super A	18	54	-4	900	990	900	1024	0	Act 4 (N) Uitem A	3	Act 4 (N) Cpot A	1																				0
+Act 4 (N) Super B	18	57	-4	900	990	900	1024	0	Act 4 (N) Uitem B	3	Act 4 (N) Cpot B	1																				0
+Act 4 (N) Super C	18	60	-4	900	990	900	1024	0	Act 4 (N) Uitem B	3	Act 4 (N) Cpot B	1																				0
+Act 5 (N) Super A	18	62	-4	900	990	900	1024	0	Act 5 (N) Uitem A	3	Act 5 (N) Cpot A	1																				0
+Act 5 (N) Super B	18	63	-4	900	990	900	1024	0	Act 5 (N) Uitem B	3	Act 5 (N) Cpot B	1																				0
+Act 5 (N) Super C	18	66	-4	900	990	900	1024	0	Act 5 (N) Uitem C	3	Act 5 (N) Cpot C	1																				0
+Act 1 (H) Super A	18	67	-4	900	990	900	1024	0	Act 1 (H) Uitem A	3	Act 1 (H) Cpot A	1																				0
+Act 1 (H) Super B	18	67	-4	900	990	900	1024	0	Act 1 (H) Uitem B	3	Act 1 (H) Cpot B	1																				0
+Act 1 (H) Super C	18	68	-4	900	990	900	1024	0	Act 1 (H) Uitem C	3	Act 1 (H) Cpot C	1																				0
+Act 2 (H) Super A	18	68	-4	900	990	900	1024	0	Act 2 (H) Uitem A	3	Act 2 (H) Cpot A	1																				0
+Act 2 (H) Super B	18	69	-4	900	990	900	1024	0	Act 2 (H) Uitem B	3	Act 2 (H) Cpot B	1																				0
+Act 2 (H) Super C	18	72	-4	900	990	900	1024	0	Act 2 (H) Uitem C	3	Act 2 (H) Cpot C	1																				0
+Act 3 (H) Super A	18	73	-4	900	990	900	1024	0	Act 3 (H) Uitem A	3	Act 3 (H) Cpot A	1																				0
+Act 3 (H) Super B	18	75	-4	900	990	900	1024	0	Act 3 (H) Uitem B	3	Act 3 (H) Cpot B	1																				0
+Act 3 (H) Super C	18	78	-4	900	990	900	1024	0	Act 3 (H) Uitem C	3	Act 3 (H) Cpot C	1																				0
+Act 4 (H) Super A	18	81	-4	900	990	900	1024	0	Act 4 (H) Uitem A	3	Act 4 (H) Cpot A	1																				0
+Act 4 (H) Super B	18	84	-4	900	990	900	1024	0	Act 4 (H) Uitem B	3	Act 4 (H) Cpot B	1																				0
+Act 4 (H) Super C	18	87	-4	900	990	900	1024	0	Act 4 (H) Uitem B	3	Act 4 (H) Cpot B	1																				0
+Act 5 (H) Super A	18	90	-4	900	990	900	1024	0	Act 5 (H) Uitem A	3	Act 5 (H) Cpot A	1																				0
+Act 5 (H) Super B	18	93	-4	900	990	900	1024	0	Act 5 (H) Uitem B	3	Act 5 (H) Cpot B	1																				0
+Act 5 (H) Super C	18	96	-4	900	990	900	1024	0	Act 5 (H) Uitem C	3	Act 5 (H) Cpot C	1																				0
+Act 1 Super Ax	18	0	-4	900	990	900	1024	0	Act 1 Uitem A	3	Act 1 Cpot A	1																				0
+Act 1 Super Bx	18	5	-4	900	990	900	1024	0	Act 1 Uitem B	3	Act 1 Cpot B	1																				0
+Act 1 Super Cx	18	9	-4	900	990	900	1024	0	Act 1 Uitem C	3	Act 1 Cpot C	1																				0
+Act 2 Super Ax	18	12	-4	900	990	900	1024	0	Act 2 Uitem A	3	Act 2 Cpot A	1																				0
+Act 2 Super Bx	18	15	-4	900	990	900	1024	0	Act 2 Uitem B	3	Act 2 Cpot B	1																				0
+Act 2 Super Cx	18	18	-4	900	990	900	1024	0	Act 2 Uitem C	3	Act 2 Cpot C	1																				0
+Act 3 Super Ax	18	20	-4	900	990	900	1024	0	Act 3 Uitem A	3	Act 3 Cpot A	1																				0
+Act 3 Super Bx	18	22	-4	900	990	900	1024	0	Act 3 Uitem B	3	Act 3 Cpot B	1																				0
+Act 3 Super Cx	18	24	-4	900	990	900	1024	0	Act 3 Uitem C	3	Act 3 Cpot C	1																				0
+Act 4 Super Ax	18	26	-4	900	990	900	1024	0	Act 4 Uitem A	3	Act 4 Cpot A	1																				0
+Act 4 Super Bx	18	29	-4	900	990	900	1024	0	Act 4 Uitem B	3	Act 4 Cpot B	1																				0
+Act 4 Super Cx	18	32	-4	900	990	900	1024	0	Act 4 Uitem B	3	Act 4 Cpot B	1																				0
+Act 5 Super Ax	18	34	-4	900	990	900	1024	0	Act 5 Uitem A	3	Act 5 Cpot A	1																				0
+Act 5 Super Bx	18	36	-4	900	990	900	1024	0	Act 5 Uitem B	3	Act 5 Cpot B	1																				0
+Act 5 Super Cx	18	38	-4	900	990	900	1024	0	Act 5 Uitem C	3	Act 5 Cpot C	1																				0
+Act 1 (N) Super Ax	18	40	-4	900	990	900	1024	0	Act 1 (N) Uitem A	3	Act 1 (N) Cpot A	1																				0
+Act 1 (N) Super Bx	18	41	-4	900	990	900	1024	0	Act 1 (N) Uitem B	3	Act 1 (N) Cpot B	1																				0
+Act 1 (N) Super Cx	18	42	-4	900	990	900	1024	0	Act 1 (N) Uitem C	3	Act 1 (N) Cpot C	1																				0
+Act 2 (N) Super Ax	18	44	-4	900	990	900	1024	0	Act 2 (N) Uitem A	3	Act 2 (N) Cpot A	1																				0
+Act 2 (N) Super Bx	18	45	-4	900	990	900	1024	0	Act 2 (N) Uitem B	3	Act 2 (N) Cpot B	1																				0
+Act 2 (N) Super Cx	18	46	-4	900	990	900	1024	0	Act 2 (N) Uitem C	3	Act 2 (N) Cpot C	1																				0
+Act 3 (N) Super Ax	18	48	-4	900	990	900	1024	0	Act 3 (N) Uitem A	3	Act 3 (N) Cpot A	1																				0
+Act 3 (N) Super Bx	18	50	-4	900	990	900	1024	0	Act 3 (N) Uitem B	3	Act 3 (N) Cpot B	1																				0
+Act 3 (N) Super Cx	18	51	-4	900	990	900	1024	0	Act 3 (N) Uitem C	3	Act 3 (N) Cpot C	1																				0
+Act 4 (N) Super Ax	18	54	-4	900	990	900	1024	0	Act 4 (N) Uitem A	3	Act 4 (N) Cpot A	1																				0
+Act 4 (N) Super Bx	18	57	-4	900	990	900	1024	0	Act 4 (N) Uitem B	3	Act 4 (N) Cpot B	1																				0
+Act 4 (N) Super Cx	18	60	-4	900	990	900	1024	0	Act 4 (N) Uitem B	3	Act 4 (N) Cpot B	1																				0
+Act 5 (N) Super Ax	18	62	-4	900	990	900	1024	0	Act 5 (N) Uitem A	3	Act 5 (N) Cpot A	1																				0
+Act 5 (N) Super Bx	18	63	-4	900	990	900	1024	0	Act 5 (N) Uitem B	3	Act 5 (N) Cpot B	1																				0
+Act 5 (N) Super Cx	18	66	-4	900	990	900	1024	0	Act 5 (N) Uitem C	3	Act 5 (N) Cpot C	1																				0
+Act 1 (H) Super Ax	18	67	-4	900	990	900	1024	0	Act 1 (H) Uitem A	3	Act 1 (H) Cpot A	1																				0
+Act 1 (H) Super Bx	18	67	-4	900	990	900	1024	0	Act 1 (H) Uitem B	3	Act 1 (H) Cpot B	1																				0
+Act 1 (H) Super Cx	18	68	-4	900	990	900	1024	0	Act 1 (H) Uitem C	3	Act 1 (H) Cpot C	1																				0
+Act 2 (H) Super Ax	18	68	-4	900	990	900	1024	0	Act 2 (H) Uitem A	3	Act 2 (H) Cpot A	1																				0
+Act 2 (H) Super Bx	18	69	-4	900	990	900	1024	0	Act 2 (H) Uitem B	3	Act 2 (H) Cpot B	1																				0
+Act 2 (H) Super Cx	18	72	-4	900	990	900	1024	0	Act 2 (H) Uitem C	3	Act 2 (H) Cpot C	1																				0
+Act 3 (H) Super Ax	18	73	-4	900	990	900	1024	0	Act 3 (H) Uitem A	3	Act 3 (H) Cpot A	1																				0
+Act 3 (H) Super Bx	18	75	-4	900	990	900	1024	0	Act 3 (H) Uitem B	3	Act 3 (H) Cpot B	1																				0
+Act 3 (H) Super Cx	18	78	-4	900	990	900	1024	0	Act 3 (H) Uitem C	3	Act 3 (H) Cpot C	1																				0
+Act 4 (H) Super Ax	18	81	-4	900	990	900	1024	0	Act 4 (H) Uitem A	3	Act 4 (H) Cpot A	1																				0
+Act 4 (H) Super Bx	18	84	-4	900	990	900	1024	0	Act 4 (H) Uitem B	3	Act 4 (H) Cpot B	1																				0
+Act 4 (H) Super Cx	18	87	-4	900	990	900	1024	0	Act 4 (H) Uitem B	3	Act 4 (H) Cpot B	1																				0
+Act 5 (H) Super Ax	18	90	-4	900	990	900	1024	0	Act 5 (H) Uitem A	3	Act 5 (H) Cpot A	1																				0
+Act 5 (H) Super Bx	18	93	-4	900	990	900	1024	0	Act 5 (H) Uitem B	3	Act 5 (H) Cpot B	1																				0
+Act 5 (H) Super Cx	18	96	-4	900	990	900	1024	0	Act 5 (H) Uitem C	3	Act 5 (H) Cpot C	1																				0
 Cow King			5	850	983	983	1024	0	Act 1 Uitem C	1	Act 1 Melee B	2																				0
 Cow King (N)			5	850	983	983	1024	0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
 Cow King (H)			5	850	983	983	1024	0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2	Countess Rune (H)	2																		0
@@ -851,4 +851,3 @@ Uber Izual			1	1024				0	mbr	1																						0
 Pandemonium Key A			1	1024				0	pk1	1																						0
 Pandemonium Key B			1	1024				0	pk2	1																						0
 Pandemonium Key C			1	1024				0	pk3	1																						0
-																																0

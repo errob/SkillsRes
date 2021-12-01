@@ -1,9 +1,9 @@
 Name	*Rune Name	complete	server	*Patch Release	itype1	itype2	itype3	itype4	itype5	itype6	etype1	etype2	etype3	*RunesUsed	Rune1	Rune2	Rune3	Rune4	Rune5	Rune6	T1Code1	T1Param1	T1Min1	T1Max1	T1Code2	T1Param2	T1Min2	T1Max2	T1Code3	T1Param3	T1Min3	T1Max3	T1Code4	T1Param4	T1Min4	T1Max4	T1Code5	T1Param5	T1Min5	T1Max5	T1Code6	T1Param6	T1Min6	T1Max6	T1Code7	T1Param7	T1Min7	T1Max7	*eol
 Runeword1	Ancients' Pledge	1		109	shld									RalOrtTal	r08	r09	r07				res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
-Runeword2	Armageddon	1		new	weap									ShaelSurGulSurShael	r13	r29	r25	r29	r13		hit-skill	Frozen Orb	5	20	hit-skill	Poison Nova	5	20	hit-skill	Chain Lightning	5	20	hit-skill	Tornado	5	20	hit-skill	Molten Boulder	5	20									0
+Runeword2	Armageddon			new	weap									ShaelSurGulSurShael	r13	r29	r25	r29	r13		hit-skill	Frozen Orb	5	20	hit-skill	Poison Nova	5	20	hit-skill	Chain Lightning	5	20	hit-skill	Tornado	5	20	hit-skill	Molten Boulder	5	20									0
 Runeword3	Authority																																																0
 Runeword4	Beast	1		110	axe	scep	hamm							BerTirUmMalLum	r30	r03	r22	r23	r17		swing2		40	40	aura	Fanaticism	9	9	dmg%		240	270	str		25	40	charged	Summon Grizzly	5	13	oskill	Wearbear	3	3	oskill	Shape Shifting	3	3	0
-Runeword5	Beauty	1		new	shld									ChamBerVexLo	r32	r30	r26	r28			aura	Salvation	5	5	abs-fire%		15	15	abs-ltng%		15	15	allskills		3	3	cast2		45	45									0
+Runeword5	Beauty			new	shld									ChamBerVexLo	r32	r30	r26	r28			aura	Salvation	5	5	abs-fire%		15	15	abs-ltng%		15	15	allskills		3	3	cast2		45	45									0
 Runeword6	Black	1		109	club	hamm	mace							ThulIoNef	r10	r16	r04				crush		40	40	dmg%		120	120	swing2		15	15	red-mag		2	2	att		200	200	charged	74	12	4					0
 Runeword7	Blood																																																0
 Runeword8	Bone	1		111	tors									SolUmUm	r12	r22	r22				hit-skill	Bone Spear	15	10	gethit-skill	Bone Armor	15	10	nec		2	2	mana		100	150													0
@@ -13,7 +13,7 @@ Runeword11	Breath of the Dying	1		110	weap									VexHelElEldZodEth	r26	r15	r01
 Runeword12	Broken Promise																																																0
 Runeword13	Call to Arms	1		110	weap									AmnRalMalIstOhm	r11	r08	r23	r24	r27		swing2		40	40	dmg%		200	240	allskills		1	1	oskill	Battle Command	2	6	oskill	Battle Orders	1	6	oskill	Battle Cry	1	4	regen		12	12	0
 Runeword14	Chains of Honor	1		110	tors									DolUmBerIst	r14	r22	r30	r24			res-all		50	50	ac%		70	70	dmg-demon		200	200	dmg-undead		100	100	lifesteal		8	8	allskills		2	2	str		20	20	0
-Runeword15	Chance																																																0
+Runeword15	Chance	1		new assa element	h2h	club								KoVexMal	r18	r26	r23				extra-cold		10	10	dmg%		333	333	extra-ltng		10	10	swing2		45	45	hit-skill	Fire Ball	17	13	hit-skill	Blizzard	7	7	hit-skill	Nova	13	17	0
 Runeword16	Chaos	1		110	h2h									FalOhmUm	r19	r27	r22				demon-heal		15	15	dmg%		240	290	dmg-mag		216	471	oskill	Whirlwind	1	1	swing2		35	35	hit-skill	Frozen Orb	9	11	hit-skill	Charged Bolt	11	9	0
 Runeword17	Crescent Moon	1		110	axe	swor	pole							ShaelUmTir	r13	r22	r03				pierce-ltng		35	35	ignore-ac		1	1	dmg%		180	220	abs-mag		9	11	charged	Summon Spirit Wolf	30	18	hit-skill	Static Field	7	13	hit-skill	Chain Lightning	10	17	0
 Runeword18	Darkness																																																0
@@ -30,10 +30,10 @@ Runeword28	Dread																																																0
 Runeword29	Dream	1		Previously Ladder Only	helm	shld								IoJahPul	r16	r31	r21				ac		150	220	gethit-skill	Confuse	10	15	mana/lvl	5			res-all		5	20	balance3		20	30	aura	Holy Shock	15	15	mag%		12	25	0
 Runeword30	Duress	1		110	tors									ShaelUmThul	r13	r22	r10				dmg-cold	50	37	133	dmg%		10	20	ac%		150	200	balance2		20	20	openwounds		33	33	crush		15	15	stamdrain		-20	-20	0
 Runeword31	Edge	1		Previously Ladder Only	miss									TirTalAmn	r03	r07	r11				dmg-demon		320	380	dmg-undead		280	280	swing2		35	35	noheal		1	1	aura	Thorns	15	15	all-stats		5	10	cheap		15	15	0
-Runeword32	Elation																																																0
+Runeword32	Elation	1		new Enigma	helm									ChamUmLo	r32	r22	r28				ac		250	275	res-all		20	20	move2		25	25	all-stats		20	20	allskills		2	2	oskill	Teleport	1	1					0
 Runeword33	Enigma	1		110	tors									JahIthBer	r31	r06	r30				ac		750	775	heal-kill		14	14	move2		45	45	str/lvl	6			allskills		2	2	mag%/lvl	8			oskill	Teleport	1	1	0
 Runeword34	Enlightenment	1		111	tors									PulRalSur	r21	r08	r12				hit-skill	Fire Ball	5	15	gethit-skill	Blaze	5	15	sor		2	2	oskill	Warmth	1	1													0
-Runeword35	Envy																																																0
+Runeword35	Envy			tele staff charges	staf									TalRal	r07	r08					charged	Teleport	99	10	cast2		25	25	enr		25	25																	0
 Runeword36	Eternity	1		110	mele									AmnBerIstSolSur	r11	r30	r24	r12	r29		dmg%		260	310	indestruct		1	1	slow		33	33	charged	Revive	88	8	regen		16	16	regen-mana		16	16	nofreeze		1	1	0
 Runeword37	Exile	1		110	pala									VexOhmIstDol	r26	r27	r24	r14			block2		30	30	freeze		1	1	ac%		220	260	aura	Defiance	13	16	skilltab	10	2	2	hit-skill	Life Tap	15	5	rep-dur	25			0
 Runeword38	Faith	1		110, Previously Ladder Only	miss									OhmJahLemEld	r27	r31	r20	r02			dmg%		280	280	att%		300	300	dmg-fire		120	120	res-all		15	15	aura	fanaticism	12	15	reanimate	1	10	10	allskills		1	2	0
@@ -44,7 +44,7 @@ Runeword42	Fortune																																																0
 Runeword43	Amity																																																0
 Runeword44	Fury	1		109	mele									JahGulEth	r31	r25	r05				dmg%		209	209	swing2		40	40	noheal		1	1	openwounds		66	66	lifesteal		6	6	deadly		33	33	skill	147	5	5	0
 Runeword45	Gloom	1		110	tors									FalUmPul	r19	r22	r21				ac%		170	230	res-all		30	30	gethit-skill	Dim Vision	15	3	balance2		10	10	dmg-to-mana		5	5	light		-3	-3	half-freeze		1	1	0
-Runeword46	Glory																																																0
+Runeword46	Glory	1		new end aoe melle	axe	scep	h2h	aspe	abow					VexZodOhm	r26	r33	r27				dmg%		316	316	swing2		45	45	reduce-ac		44	44	openwounds		66	66	lifesteal		6	6	deadly		33	33	skill-kill	Corpse Explosion	11	11	0
 Runeword47	Grief	1		Previously Ladder Only	swor	axe								EthTirLoMalRal	r05	r03	r28	r23	r08		dmg-dem/lvl	15			dmg		340	400	swing3		30	40	hit-skill	Venom	35	15	pierce-pois		20	25	ignore-ac		1	1	heal-kill		10	15	0
 Runeword48	Hand of Justice	1		110	weap									SurChamAmnLo	r29	r32	r11	r28			swing2		33	33	dmg%		280	330	aura	Holy Fire	16	16	levelup-skill	Blaze	100	36	death-skill	Meteor	100	48	ignore-ac		1	1	pierce-fire		20	20	0
 Runeword49	Harmony	1		Previously Ladder Only	miss									TirIthSolKo	r03	r06	r12	r18			dmg%		200	275	dmg-elem		55	160	charged	Revive	25	20	aura	Vigor	10	10	oskill	Valkyrie	2	6	regen-mana		20	20	light		2	2	0
@@ -61,7 +61,7 @@ Runeword59	Ice	1		Previously Ladder Only	miss									AmnShaelJahLo	r11	r13	r31	
 Runeword60	Infinity	1		Previously Ladder Only	pole									BerMalBerIst	r30	r23	r30	r24			dmg%		255	325	move3		35	35	vit/lvl	4			aura	Conviction	12	12	kill-skill	Chain Lightning	50	20	pierce-ltng		45	55	charged	Cyclone Armor	30	21	0
 Runeword61	Innocence																																																0
 Runeword62	Insight	1		Previously Ladder Only	pole	staf								RalTirTalSol	r08	r03	r07	r12			dmg%		200	260	att%		180	250	mag%		23	23	oskill	Critical Strike	1	6	cast2		35	35	aura	Meditation	12	17	all-stats		5	5	0
-Runeword63	Jealousy																																																0
+Runeword63	Jealousy	1		new budget infinity	swor	bow	spea	aspe	abow					GulKoGulFal	r25	r18	r25	r19			dmg%		255	325	move3		35	35	vit/lvl	4			aura	Conviction	1	1	crush		20	20	lifesteal		5	5					0
 Runeword64	Judgment																																																0
 Runeword65	King's Grace	1		109	swor	scep								AmnRalThul	r11	r08	r10				dmg%		100	100	att		150	150	dmg-demon		100	100	dmg-undead		50	50	att-demon		100	100	att-undead		100	100					0
 Runeword66	Kingslayer	1		110	swor	axe								MalUmGulFal	r23	r22	r25	r19			swing2		30	30	dmg%		230	270	reduce-ac		25	25	crush		33	33	openwounds		25	25	oskill	Vengeance	1	1	gold%		40	40	0
@@ -77,13 +77,13 @@ Runeword75	Lore	1		109	helm									OrtSol	r09	r12					enr		10	10	allskills		1	1
 Runeword76	Love																																																0
 Runeword77	Loyalty																																																0
 Runeword78	Lust																																																0
-Runeword79	Madness	1		new	tors									RalOrt	r08	r09					move2		25	25	balance2		25	25	swing2		25	25	red-dmg		15	15													0
+Runeword79	Madness	1		new melee stealth	tors									RalOrt	r08	r09					move2		25	25	balance2		25	25	swing2		25	25	red-dmg		7	7	red-mag		7	7									0
 Runeword81	Malice	1		109	mele									IthElEth	r06	r01	r05				openwounds		100	100	dmg-ac		-100	-100	noheal		1	1	dmg%		33	33	light		-1	-1	regen		-5	-5					0
 Runeword82	Melody	1		109	miss									ShaelKoNef	r13	r18	r04				dmg%		50	50	skilltab	0	3	3	skill	9	3	3	skill	13	3	3	skill	17	3	3	dmg-undead		300	300					0
 Runeword83	Memory	1		109	staf									LumIoSolEth	r17	r16	r12	r05			mana%		20	20	red-mag		7	7	ac%		50	50	cast2		33	33	sor		3	3	skill	58	3	3	skill	42	2	2	0
 Runeword84	Mist																																																0
 Runeword85	Morning																																																0
-Runeword86	Mystery	1		new	staf									IoLumLem	r16	r17	r20				oskill	Teleport	1	1	cast2		25	25	mana		25	100																	0
+Runeword86	Mystery	1		new tele staff	staf									IoLumLem	r16	r17	r20				oskill	Teleport	1	1	cast2		25	25	mana		25	100																	0
 Runeword87	Myth	1		111	tors									HelAmnNef	r15	r11	r04				hit-skill	Taunt	10	1	gethit-skill	Howl	3	1	bar		2	2	regen		10	10													0
 Runeword88	Nadir	1		109	helm									NefTir	r04	r03					ac%		50	50	ac		10	10	light		-3	-3	charged	264	9	13	gold%		-33	-33	str		5	5					0
 Runeword89	Nature's Kingdom																																																0
@@ -133,27 +133,27 @@ Runeword132	Starlight																																																0
 Runeword133	Stealth	1		109	tors									TalEth	r07	r05					red-mag		3	3	dex		6	6	stam		15	15	move2		25	25	cast2		25	25	balance2		25	25					0
 Runeword134	Steel	1		109	swor	axe	mace							TirEl	r03	r01					swing2		25	25	dmg-min		3	3	dmg-max		3	3	openwounds		50	50	dmg%		20	20									0
 Runeword135	Still Water																																																0
-Runeword136	Sting																																																0
+Runeword136	Sting	1		new melee spirit	weap	shld								TalThulAmnSol	r07	r10	r11	r12			balance3		55	55	hp		89	112	ac-miss		250	250	vit		22	22	swing2		25	35	dmg-max		6	16	dmg%		260	290	0
 Runeword137	Stone	1		110	tors									ShaelUmPulLum	r13	r22	r21	r17			ac%		220	260	charged	Clay Golem	16	16	ac-miss		300	300	charged	Molten Boulder	80	16	str		16	16	vit		16	16	balance2		40	40	0
 Runeword138	Storm																																																0
 Runeword139	Strength	1		109	mele									AmnTir	r11	r03					str		20	20	dmg%		35	35	vit		10	10	crush		25	25													0
 Runeword140	Tempest																																																0
 Runeword141	Temptation																																																0
-Runeword142	Terror	1		new	weap									TirEthHel	r03	r05	r15				dmg/lvl		10	10	att/lvl		6	6	vit/lvl		10	10	str/lvl		10	10	dmg-min		20	20	dmg-max		100	100					0
+Runeword142	Terror			new	weap									TirEthHel	r03	r05	r15				dmg/lvl		10	10	att/lvl		6	6	vit/lvl		10	10	str/lvl		10	10	dmg-min		20	20	dmg-max		100	100					0
 Runeword143	Thirst																																																0
 Runeword144	Thought																																																0
 Runeword145	Thunder																																																0
 Runeword146	Time																																																0
 Runeword147	Tradition																																																0
 Runeword148	Treachery	1		111	tors									ShaelThulLem	r13	r10	r20				hit-skill	Venom	25	15	gethit-skill	Fade	5	15	ass		2	2	swing2		45	45													0
-Runeword149	Trust																																																0
-Runeword150	Truth																																																0
+Runeword149	Trust	1		new melee spirit small	weap	shld	h2h							TalThulAmn	r07	r10	r11				balance3		25	25	hp		45	66	ac-miss		125	125	vit		11	11	swing2		20	20	dmg-max		3	8	dmg%		230	230	0
+Runeword150	Truth																																																
 Runeword151	Unbending Will																																																0
 Runeword152	Valor																																																0
-Runeword153	Vengeance	1		new	weap									ShaelBerAmnOhm	r13	r30	r11	r27			kill-skill	Corpse Explosion	25	13	hit-skill	Amplify Damage	10	13	swing2		60	60	dmg%		283	283	reduce-ac		33	33	crush		13	13	att%		66	66	0
+Runeword153	Vengeance			new	weap									ShaelBerAmnOhm	r13	r30	r11	r27			kill-skill	Corpse Explosion	25	13	hit-skill	Amplify Damage	10	13	swing2		60	60	dmg%		283	283	reduce-ac		33	33	crush		13	13	att%		66	66	0
 Runeword154	Venom	1		109	weap									TalDolMal	r07	r14	r23				dmg-pois	175	312	312	ignore-ac		1	1	charged	83	27	15	charged	92	11	13	manasteal		7	7									0
-Runeword155	Victory																																																0
-Runeword156	Voice																																																0
+Runeword155	Victory	1		new small spirit	weap	shld	h2h							TalThulOrt	r07	r10	r09				balance3		25	25	mana		45	66	ac-miss		125	125	vit		11	11	cast3		20	20	abs-mag		1	4	allskills		1	1	0
+Runeword156	Voice																																																
 Runeword157	Void																																																0
 Runeword158	War																																																0
 Runeword159	Water																																																0
