@@ -844,10 +844,14 @@ Countess Item (N)			5					19	gld,mul=1536	11	Act 1 (N) Equip C	19	Act 2 (N) Junk
 Countess Item (H)			5					19	gld,mul=2048	11	Act 1 (H) Equip C	19	Act 2 (H) Junk	15	Act 2 (H) Good	3	pk1	1														0
 Countess			-3	883	883	883	1024	0	Countess Item	1	Countess Rune	2																				0
 Countess (N)			-4	883	883	983	1024	0	Countess Item (N)	1	Countess Rune (N)	3																				0
-Countess (H)			-6	883	883	983	1024	0	Countess Item (H)	2	Countess Rune (H)	4																				0
+Countess (H)			-6	883	883	983	1024	0	Countess Item (H)	3	Countess Rune (H)	3																				0
 Uber Andariel			1	1024				0	dhn	1																						0
 Uber Duriel			1	1024				0	bey	1																						0
 Uber Izual			1	1024				0	mbr	1																						0
 Pandemonium Key A			1	1024				0	pk1	1																						0
 Pandemonium Key B			1	1024				0	pk2	1																						0
 Pandemonium Key C			1	1024				0	pk3	1																						0
+Keys			2					0	fed	5	pk3	5	bet	5	ceh	5	tes	5	pk1	5	pk2	5										0
+NamedA			-3					0	Act 5 (H) Champ A	2	Keys	1																				0
+NamedB			-3					0	Act 5 (H) Champ B	2	Keys	1																				0
+NamedC			-3					0	Act 5 (H) Champ C	2	Keys	1																				0
